@@ -10,7 +10,14 @@ AI engineer and NLP researcher in Dhaka, Bangladesh. I study how LLMs treat low-
 [![YouTube: MappedAcademy](https://img.shields.io/badge/MappedAcademy-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@MappedAcademy)
 [![Email](https://img.shields.io/badge/hi@jubairsami.com-555555?style=flat-square&logo=maildotru&logoColor=white)](mailto:hi@jubairsami.com)
 
-**Research interests:** low-resource and dialectal NLP · LLM evaluation · agentic AI and agent security
+## Research interests
+
+- **LLM Agents & Compound AI Systems** (Tool Use, Long-Horizon Memory, Test-Time Compute)
+- **Agentic AI Security & Indirect Prompt Injection Defense**
+- **LLM-as-a-Judge Reliability & Meta-Evaluation**
+- **Dialect-Robust & Equitable Multilingual NLP**
+- **Efficient Language Models for Low-Resource Languages** (Tokenization Cost, Distillation, Continual Pre-Training)
+- **Multimodal & Spoken-Dialogue Agents** (Vision-Language, GUI, Voice)
 
 Open to research collaborations and graduate positions in these areas.
 
